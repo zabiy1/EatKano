@@ -2,9 +2,9 @@
 <html>
 
 <head>
-  <title>吃掉小鹿乃-排行榜</title>
-  <meta item="description" content="来看神仙" />
-  <meta itemprop="image" content="https://www.thac.cc/kano/res/logo.jpg" />
+  <title>暴揍凹里奥-排行榜</title>
+  <meta item="description" content="来看愤怒值" />
+  <meta itemprop="image" content="https://raw.githubusercontent.com/zabiy1/zabiy1.github.io/master/favicon.ico" />
   <meta charset="utf-8" />
   <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
