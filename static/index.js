@@ -342,9 +342,9 @@ function shareText(score) {
     }
     SubmitResults();
     if (score <= 49) return '库亚西~~';
-    if (score <= 99) return '想要吹的更好';
-    if (score <= 149) return '努力的尽头就是奇迹！';
-    if (score <= 199) return '卡密哒！';
+    if (score <= 79) return '想要吹的更好';
+    if (score <= 99) return '努力的尽头就是奇迹！';
+    if (score <= 149) return '卡密哒！';
     return '神？';
 }
 
