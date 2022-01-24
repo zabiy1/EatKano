@@ -2,10 +2,10 @@
 <html>
 
 <head>
-    <title>吃掉小鹿乃</title>
-    <meta itemprop="name" content="吃掉小鹿乃" />
-    <meta itemprop="description" content="新概念音游" />
-    <meta itemprop="image" content="https://www.thac.cc/kano/res/logo.jpg" />
+    <title>抱走（暴揍）凹里奥</title>
+    <meta itemprop="name" content="暴揍凹里奥" />
+    <meta itemprop="description" content="暴揍凹里奥" />
+    <meta itemprop="image" content="https://raw.githubusercontent.com/zabiy1/zabiy1.github.io/master/favicon.ico" />
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, width=device-width,target-densitydpi=device-dpi" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -40,7 +40,7 @@
             <div style="margin:0 8% 0 9%;">
                 <div style="font-size:2.6em; color:#FEF002;">新概念音游</div><br />
                 <div style="font-size:2.2em; color:#fff; line-height:1.5em;">
-                    从最底下小鹿乃开始<br />
+                    从最底下凹里奥开始<br />
                     看看你20秒能多少分<br />
                 </div>
                 <br />
